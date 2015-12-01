@@ -6,5 +6,4 @@ Desktop.ini
 # My configurations:
 db.ini
 deploy_key_rsa
-.idea
-workspace.xml
+.idea/workspace.xml
