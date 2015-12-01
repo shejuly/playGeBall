@@ -1,10 +1,10 @@
-/*require.config({
+require.config({
     paths: {
         j1:"js1"
     },
 
     baseUrl:"js"
-});*/
-require(["js1"],function(){
+});
+require(["j1"],function(){
     alert(0);
 });
